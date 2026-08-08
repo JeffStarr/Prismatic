@@ -246,11 +246,6 @@ Visit the WordPress Plugins screen, locate the plugin, and click "Update" :)
 
 == Frequently Asked Questions ==
 
-**Can you add another language for Prism.js or Highlight.js?**
-
-Yes, feel free to [suggest a language](https://plugin-planet.com/support/#contact)
-
-
 **Does this work with Gutenberg Block Editor?**
 
 Yes, the plugin provides a "Prismatic" block that makes it easy to add code snippets that will be highlighted on the front-end. Also provides "add code" buttons for the Classic TinyMCE (Visual/Text) Editor. Add code, choose a language, done!
@@ -341,16 +336,8 @@ Check out [Disable Highlighting in Comments with Prismatic WordPress Plugin](htt
 add_filter('render_block', 'prismatic_block_shortcode_mod', 10, 2);`
 
 
-**Got a question?**
-
-Send any questions or feedback via my [contact form](https://plugin-planet.com/support/#contact)
-
-
 
 == Changelog ==
-
-Thank you to everyone providing feedback! If you like Prismatic, please take a moment to [give a 5-star rating](https://wordpress.org/support/plugin/prismatic/reviews/?rate=5#new-post). It helps to keep development and support going strong. Thank you!
-
 
 **3.7.5 (2026/04/18)**
 
