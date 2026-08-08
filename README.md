@@ -17,3 +17,7 @@ First download and ZIP compress the contents of the `/prismatic/` folder (note t
 The two loose files, `LICENSE` and `README.md` are used only here at GitHub and are not part of the plugin.
 
 After zipping the `/prismatic/` folder, follow the Installation steps located inside of the plugin's `readme.txt` file.
+
+# Documentation
+
+Complete documentation provided in the plugin's `readme.txt` file.
