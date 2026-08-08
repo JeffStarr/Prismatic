@@ -8,4 +8,4 @@ In August 2026, the author retired the plugin and moved it to GitHub for the WP 
 
 For documentation, check the `readme.txt` file located inside of the `/prismatic/` folder.
 
-__Thank you__ to everyone who helped and supported Prismatic over the years.
+Thank you to everyone who helped and supported Prismatic over the years.
