@@ -6,6 +6,6 @@ Prismatic was created in 2016 and developed/maintained/supported for 10 years at
 
 In August 2026, the author retired the plugin and moved it to GitHub for the WP community.
 
-For more details and documentation, check the plugin's readme.txt file.
+For documentation, check the `readme.txt` file located inside of the `/prismatic/` folder.
 
-Thank you to everyone who helped and supported Prismatic over the years.
+__Thank you__ to everyone who helped and supported Prismatic over the years.
